@@ -63,14 +63,15 @@ passed, the service checks again for a required password changed.
 
 The password is created in code and uses the following values;
 
-  Category             Characters
-  -------------------- ----------------------------
-  Capital letters      ABCDEFGHIJKLMNOPQRSTUVWXYZ
-  Small letters        abcdefghijklmnopqrstuvwxyz
-  Numbers              0123456789
-  Special characters   !@\$?\_-
-  Length               24
-  Unique characters    4
+  Category|Characters
+  --------------------|----------------------------
+  Capital letters|ABCDEFGHIJKLMNOPQRSTUVWXYZ
+  Small letters|abcdefghijklmnopqrstuvwxyz
+  Numbers|0123456789
+  Special characters|!@\$?\_-
+  Length|24
+  Unique characters|4
+  
 
 An Azure Key Vault is set up to store the passwords. This is required to
 be configured before deployment. The Service gets access to the Key
@@ -116,17 +117,18 @@ An AzureAD Application and Service Principal is required to access the
 Azure Key Vault. The following script can be used to create an
 Application and Principal.
 
-Insert location for the script
+<https://github.com/CraigWilsonOZ/CLAPS/blob/master/Deployment-Azure/Create-AzureADAppwithServicePrincipal.ps1>
 
 The script outputs follow the following values; these will be required
 to complete the configuration.
 
-  Output              Value Usage
-  ------------------- -----------------------------------------------------------
-  ClientID            Azure AD Application Client ID
-  Client Secret       Azure AD Application Client Secret
-  Subscription ID     AzureAD Tenant ID
-  Service Principal   Service Principal ID used to give access to the Key Vault
+  Output|Value Usage
+  -------------------|-----------------------------------------------------------
+  ClientID|Azure AD Application Client ID
+  Client Secret|Azure AD Application Client Secret
+  Subscription ID|AzureAD Tenant ID
+  Service Principal|Service Principal ID used to give access to the Key Vault
+  
 
 Deployment of the Azure Key Vault
 ---------------------------------
@@ -137,7 +139,7 @@ machine name. The following ARM templates can be used to create the Key
 Vault. The Service Principal and Tenant ID will need to be updated in
 the parameter file.
 
-Insert location for the script
+<https://github.com/CraigWilsonOZ/CLAPS/blob/master/Deployment-Azure/>
 
 Deployment of Service
 ---------------------
