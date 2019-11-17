@@ -49,7 +49,7 @@ The solution has been built to address the following requirements
 8.  The solution should use the minimum-security permissions required to
     perform actions
 
-Solution architecture
+Solution Architecture
 ---------------------
 
 The core functions of the solution use a windows service. This service
