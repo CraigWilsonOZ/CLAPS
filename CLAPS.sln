@@ -15,11 +15,6 @@ Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "Deployment-Intune", "Deploy
 EndProject
 Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "Deployment-Azure", "Deployment-Azure\Deployment-Azure.deployproj", "{BDCC9B98-04A8-49A0-8DA2-89C4C31F044B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Installer", "Installer", "{C72D9930-EE83-48FE-9457-82EA26AE6950}"
-	ProjectSection(SolutionItems) = preProject
-		CLAPS-Setup\Release\CLAPS-Setup.msi = CLAPS-Setup\Release\CLAPS-Setup.msi
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
