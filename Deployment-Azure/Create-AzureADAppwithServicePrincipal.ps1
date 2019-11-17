@@ -29,6 +29,6 @@ Write-Output "Client Secert     : $($PasswordCredential.Value)"
 Write-Output "------------------------------------------------------------------"
 Write-Output "Service Principal created, use the following values for Key Vault."
 Write-Output "------------------------------------------------------------------"
-Write-Output "Subscription ID   : $($myAppSP.AppOwnerTenantId)"
+Write-Output "Tenant ID   : $($myAppSP.AppOwnerTenantId)"
 Write-Output "Service Principal : $($myAppSP.ObjectId)"
 
