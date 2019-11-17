@@ -1,23 +1,28 @@
-# Blank Template
+# Deployment-Azure </br>
+This template allows you to deploy an Azure Key Vault. A script has been included for the creation of an AzureAD Application and Serivce Principal.
 
-<IMG SRC="https://azurequickstartsservice.blob.core.windows.net/badges/100-blank-template/PublicLastTestDate.svg" />&nbsp;
-<IMG SRC="https://azurequickstartsservice.blob.core.windows.net/badges/100-blank-template/PublicDeployment.svg" />&nbsp;
+The Template builds the following:
+ * Creates a Azure Key Vault
+ 
+## Parameters </br>
+- kvname 
+  - The Key Vault name for this deployment
+  - Type: String
 
-<IMG SRC="https://azurequickstartsservice.blob.core.windows.net/badges/100-blank-template/FairfaxLastTestDate.svg" />&nbsp;
-<IMG SRC="https://azurequickstartsservice.blob.core.windows.net/badges/100-blank-template/FairfaxDeployment.svg" />&nbsp;
+- tenantId  
+  - The Tenant ID for the Azure AD Application.
+  - Type: Strng
 
-<IMG SRC="https://azurequickstartsservice.blob.core.windows.net/badges/100-blank-template/BestPracticeResult.svg" />&nbsp;
-<IMG SRC="https://azurequickstartsservice.blob.core.windows.net/badges/100-blank-template/CredScanResult.svg" />&nbsp;
+- DefaultCLAPSRoleId  
+  - The Service Principal ID for the Azure AD Application.
+  - Type: Strng
+  
+- location 
+  - The Azure location for this deployment
+  - Type: String
 
-This is an empty template and parameters file with the schema reference and top-level properties defined.
+## Prerequisites </br>
+AzureAD Application with Serivce Principal
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2F100-blank-template%2Fazuredeploy.json" target="_blank">
-<img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.png"/>
-</a>
-<a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2F100-blank-template%2Fazuredeploy.json" target="_blank">
-<img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.png"/>
-</a>
-
-`Tags: empty, blank`
-
-
+## Script </br>
+The script Create-AzureADAppwithServicePrincipal.ps1 can be used to create the AzureAD Application and Serivce Principal account. The output from the script will contain the required values for the deployment parameters and registry configuration changes.
