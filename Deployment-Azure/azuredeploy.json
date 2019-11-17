@@ -1,0 +1,72 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "kvname": {
+      "type": "string",
+      "metadata": {
+        "description": "Enter the Key Vault name for this deployment"
+      }
+    },
+    "location": {
+      "type": "string",
+      "metadata": {
+        "description": "Enter the location for this deployment"
+      }
+    },
+    "tenantId": {
+      "type": "string",
+      "metadata": {
+        "description": "Specifies the Azure Active Directory tenant ID that should be used for authenticating requests to the key vault. Get it by using Get-AzSubscription cmdlet."
+      }
+    },
+    "DefaultCLAPSRoleId": {
+      "type": "string",
+      "defaultValue": "",
+      "metadata": {
+        "description": "Specifies the Writer RBAC Group ID that should be used for owning key vault."
+      }
+    }
+  },
+  "variables": {
+  },
+  "resources": [
+    {
+      "type": "Microsoft.KeyVault/vaults",
+      "apiVersion": "2016-10-01",
+      "name": "[parameters('kvname')]",
+      "location": "[parameters('location')]",
+      "properties": {
+        "sku": {
+          "family": "A",
+          "name": "Standard"
+        },
+        "tenantId": "[parameters('tenantId')]",
+        "accessPolicies": [
+          {
+            "tenantId": "[parameters('tenantId')]",
+            "objectId": "[parameters('DefaultCLAPSRoleId')]",
+            "permissions": {
+              "keys": [
+              ],
+              "secrets": [
+                "Set"
+              ],
+              "certificates": [
+              ]
+            }
+          }
+        ],
+        "enabledForDeployment": false,
+        "enabledForDiskEncryption": false,
+        "enabledForTemplateDeployment": false
+      }
+    }
+  ],
+  "outputs": {
+    "KeyVaultURL": {
+      "type": "string",
+      "value": "[concat('https://',parameters('kvname'),'.vault.azure.net')]"
+    }
+  }
+}

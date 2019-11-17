@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="AddUsertoGroup method" Url="html/M-library.claps.User.AddUsertoGroup.htm" />
+  <HelpKINode Title="Azkeyvault class">
+    <HelpKINode Title="Azkeyvault Class" Url="html/T-library.claps.Azkeyvault.htm" />
+    <HelpKINode Title="Azkeyvault Members" Url="html/AllMembers.T-library.claps.Azkeyvault.htm" />
+    <HelpKINode Title="about Azkeyvault class" Url="html/T-library.claps.Azkeyvault.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-library.claps.Azkeyvault.htm" />
+    <HelpKINode Title="constructor" Url="html/M-library.claps.Azkeyvault.-ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-library.claps.Azkeyvault.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-library.claps.Azkeyvault.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Azkeyvault.Azkeyvault constructor" Url="html/M-library.claps.Azkeyvault.-ctor.htm" />
+  <HelpKINode Title="Azkeyvault.GetSecret method" Url="html/M-library.claps.Azkeyvault.GetSecret.htm" />
+  <HelpKINode Title="Azkeyvault.Keyvault method" Url="html/M-library.claps.Azkeyvault.Keyvault.htm" />
+  <HelpKINode Title="Azkeyvault.log field" Url="html/F-library.claps.Azkeyvault.log.htm" />
+  <HelpKINode Title="Azkeyvault.SetSecret method" Url="html/M-library.claps.Azkeyvault.SetSecret.htm" />
+  <HelpKINode Title="AzureKeyVaultClientID property" Url="html/P-library.claps.Models.Configuration.AzureKeyVaultClientID.htm" />
+  <HelpKINode Title="AzureKeyVaultClientKey property" Url="html/P-library.claps.Models.Configuration.AzureKeyVaultClientKey.htm" />
+  <HelpKINode Title="AzureKeyVaultURL property" Url="html/P-library.claps.Models.Configuration.AzureKeyVaultURL.htm" />
+  <HelpKINode Title="clapscli namespace" Url="html/N-clapscli.htm" />
+  <HelpKINode Title="clapscli.Program class">
+    <HelpKINode Title="Program Class" Url="html/T-clapscli.Program.htm" />
+    <HelpKINode Title="Program Members" Url="html/AllMembers.T-clapscli.Program.htm" />
+  </HelpKINode>
+  <HelpKINode Title="clapssvc namespace" Url="html/N-clapssvc.htm" />
+  <HelpKINode Title="clapssvc.CoreService class">
+    <HelpKINode Title="CoreService Class" Url="html/T-clapssvc.CoreService.htm" />
+    <HelpKINode Title="CoreService Members" Url="html/AllMembers.T-clapssvc.CoreService.htm" />
+  </HelpKINode>
+  <HelpKINode Title="clapssvc.Program class">
+    <HelpKINode Title="Program Class" Url="html/T-clapssvc.Program.htm" />
+    <HelpKINode Title="Program Members" Url="html/AllMembers.T-clapssvc.Program.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Configuration class">
+    <HelpKINode Title="Configuration Class" Url="html/T-library.claps.Models.Configuration.htm" />
+    <HelpKINode Title="Configuration Members" Url="html/AllMembers.T-library.claps.Models.Configuration.htm" />
+    <HelpKINode Title="about Configuration class" Url="html/T-library.claps.Models.Configuration.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-library.claps.Models.Configuration.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-library.claps.Models.Configuration.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-library.claps.Models.Configuration.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Configuration.AzureKeyVaultClientID property" Url="html/P-library.claps.Models.Configuration.AzureKeyVaultClientID.htm" />
+  <HelpKINode Title="Configuration.AzureKeyVaultClientKey property" Url="html/P-library.claps.Models.Configuration.AzureKeyVaultClientKey.htm" />
+  <HelpKINode Title="Configuration.AzureKeyVaultURL property" Url="html/P-library.claps.Models.Configuration.AzureKeyVaultURL.htm" />
+  <HelpKINode Title="Configuration.HoursBeforeUpdate property" Url="html/P-library.claps.Models.Configuration.HoursBeforeUpdate.htm" />
+  <HelpKINode Title="Configuration.LocalAccountName property" Url="html/P-library.claps.Models.Configuration.LocalAccountName.htm" />
+  <HelpKINode Title="Configuration.LocalAdministratorGroupName property" Url="html/P-library.claps.Models.Configuration.LocalAdministratorGroupName.htm" />
+  <HelpKINode Title="Configuration.UseRegistryForConfiguration property" Url="html/P-library.claps.Models.Configuration.UseRegistryForConfiguration.htm" />
+  <HelpKINode Title="CoreService class">
+    <HelpKINode Title="CoreService Class" Url="html/T-clapssvc.CoreService.htm" />
+    <HelpKINode Title="CoreService Members" Url="html/AllMembers.T-clapssvc.CoreService.htm" />
+    <HelpKINode Title="about CoreService class" Url="html/T-clapssvc.CoreService.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-clapssvc.CoreService.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-clapssvc.CoreService.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-clapssvc.CoreService.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CoreService.CreateAdminUser field" Url="html/F-clapssvc.CoreService.CreateAdminUser.htm" />
+  <HelpKINode Title="CoreService.Log method" Url="html/M-clapssvc.CoreService.Log.htm" />
+  <HelpKINode Title="CoreService.OnPause method" Url="html/M-clapssvc.CoreService.OnPause.htm" />
+  <HelpKINode Title="CoreService.OnStart method" Url="html/M-clapssvc.CoreService.OnStart.htm" />
+  <HelpKINode Title="CoreService.OnStop method" Url="html/M-clapssvc.CoreService.OnStop.htm" />
+  <HelpKINode Title="CoreService.pathtolog field" Url="html/F-clapssvc.CoreService.pathtolog.htm" />
+  <HelpKINode Title="CoreService.Timer_Elapsed method" Url="html/M-clapssvc.CoreService.Timer_Elapsed.htm" />
+  <HelpKINode Title="CoreService._logFileLocation field" Url="html/F-clapssvc.CoreService._logFileLocation.htm" />
+  <HelpKINode Title="CoreService._scheduleTime field" Url="html/F-clapssvc.CoreService._scheduleTime.htm" />
+  <HelpKINode Title="CoreService._timer field" Url="html/F-clapssvc.CoreService._timer.htm" />
+  <HelpKINode Title="CreateAdminUser field" Url="html/F-clapssvc.CoreService.CreateAdminUser.htm" />
+  <HelpKINode Title="CreateUserOrUpdatePassword method" Url="html/M-library.claps.User.CreateUserOrUpdatePassword.htm" />
+  <HelpKINode Title="DoesUserExist method" Url="html/M-library.claps.User.DoesUserExist.htm" />
+  <HelpKINode Title="GenerateRandomPassword method" Url="html/M-library.claps.Password.GenerateRandomPassword.htm" />
+  <HelpKINode Title="GetSecret method" Url="html/M-library.claps.Azkeyvault.GetSecret.htm" />
+  <HelpKINode Title="HelpMenu method" Url="html/M-clapscli.Program.HelpMenu.htm" />
+  <HelpKINode Title="HoursBeforeUpdate property" Url="html/P-library.claps.Models.Configuration.HoursBeforeUpdate.htm" />
+  <HelpKINode Title="Installsvc method" Url="html/M-clapscli.Program.Installsvc.htm" />
+  <HelpKINode Title="IsRegistryAvailble method" Url="html/M-library.claps.Registryconfiguration.IsRegistryAvailble.htm" />
+  <HelpKINode Title="Keyvault method" Url="html/M-library.claps.Azkeyvault.Keyvault.htm" />
+  <HelpKINode Title="library.claps namespace" Url="html/N-library.claps.htm" />
+  <HelpKINode Title="library.claps.Azkeyvault class">
+    <HelpKINode Title="Azkeyvault Class" Url="html/T-library.claps.Azkeyvault.htm" />
+    <HelpKINode Title="Azkeyvault Members" Url="html/AllMembers.T-library.claps.Azkeyvault.htm" />
+  </HelpKINode>
+  <HelpKINode Title="library.claps.Logger class">
+    <HelpKINode Title="Logger Class" Url="html/T-library.claps.Logger.htm" />
+    <HelpKINode Title="Logger Members" Url="html/AllMembers.T-library.claps.Logger.htm" />
+  </HelpKINode>
+  <HelpKINode Title="library.claps.Models namespace" Url="html/N-library.claps.Models.htm" />
+  <HelpKINode Title="library.claps.Models.Configuration class">
+    <HelpKINode Title="Configuration Class" Url="html/T-library.claps.Models.Configuration.htm" />
+    <HelpKINode Title="Configuration Members" Url="html/AllMembers.T-library.claps.Models.Configuration.htm" />
+  </HelpKINode>
+  <HelpKINode Title="library.claps.Password class">
+    <HelpKINode Title="Password Class" Url="html/T-library.claps.Password.htm" />
+    <HelpKINode Title="Password Members" Url="html/AllMembers.T-library.claps.Password.htm" />
+  </HelpKINode>
+  <HelpKINode Title="library.claps.Registryconfiguration class">
+    <HelpKINode Title="Registryconfiguration Class" Url="html/T-library.claps.Registryconfiguration.htm" />
+    <HelpKINode Title="Registryconfiguration Members" Url="html/AllMembers.T-library.claps.Registryconfiguration.htm" />
+  </HelpKINode>
+  <HelpKINode Title="library.claps.User class">
+    <HelpKINode Title="User Class" Url="html/T-library.claps.User.htm" />
+    <HelpKINode Title="User Members" Url="html/AllMembers.T-library.claps.User.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LocalAccountName property" Url="html/P-library.claps.Models.Configuration.LocalAccountName.htm" />
+  <HelpKINode Title="LocalAdministratorGroupName property" Url="html/P-library.claps.Models.Configuration.LocalAdministratorGroupName.htm" />
+  <HelpKINode Title="log field">
+    <HelpKINode Title="log Field" Url="html/F-library.claps.Azkeyvault.log.htm" />
+    <HelpKINode Title="log Field" Url="html/F-library.claps.User.log.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Log method" Url="html/M-clapssvc.CoreService.Log.htm" />
+  <HelpKINode Title="Logevent method" Url="html/M-library.claps.Logger.Logevent.htm" />
+  <HelpKINode Title="Logger class">
+    <HelpKINode Title="Logger Class" Url="html/T-library.claps.Logger.htm" />
+    <HelpKINode Title="Logger Members" Url="html/AllMembers.T-library.claps.Logger.htm" />
+    <HelpKINode Title="about Logger class" Url="html/T-library.claps.Logger.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-library.claps.Logger.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-library.claps.Logger.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Logger.Logevent method" Url="html/M-library.claps.Logger.Logevent.htm" />
+  <HelpKINode Title="Main method">
+    <HelpKINode Title="Main Method " Url="html/M-clapscli.Program.Main.htm" />
+    <HelpKINode Title="Main Method " Url="html/M-clapssvc.Program.Main.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OnPause method" Url="html/M-clapssvc.CoreService.OnPause.htm" />
+  <HelpKINode Title="OnStart method" Url="html/M-clapssvc.CoreService.OnStart.htm" />
+  <HelpKINode Title="OnStop method" Url="html/M-clapssvc.CoreService.OnStop.htm" />
+  <HelpKINode Title="Password class">
+    <HelpKINode Title="Password Class" Url="html/T-library.claps.Password.htm" />
+    <HelpKINode Title="Password Members" Url="html/AllMembers.T-library.claps.Password.htm" />
+    <HelpKINode Title="about Password class" Url="html/T-library.claps.Password.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-library.claps.Password.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-library.claps.Password.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Password.GenerateRandomPassword method" Url="html/M-library.claps.Password.GenerateRandomPassword.htm" />
+  <HelpKINode Title="pathtolog field" Url="html/F-clapssvc.CoreService.pathtolog.htm" />
+  <HelpKINode Title="ProcessUser method" Url="html/M-library.claps.User.ProcessUser.htm" />
+  <HelpKINode Title="Program class">
+    <HelpKINode Title="Program Class" Url="html/T-clapscli.Program.htm" />
+    <HelpKINode Title="Program Class" Url="html/T-clapssvc.Program.htm" />
+    <HelpKINode Title="Program Members" Url="html/AllMembers.T-clapscli.Program.htm" />
+    <HelpKINode Title="Program Members" Url="html/AllMembers.T-clapssvc.Program.htm" />
+    <HelpKINode Title="about Program class" Url="html/T-clapssvc.Program.htm" />
+    <HelpKINode Title="about Program class" Url="html/T-clapscli.Program.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-clapssvc.Program.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-clapscli.Program.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-clapssvc.Program.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-clapscli.Program.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Program.HelpMenu method" Url="html/M-clapscli.Program.HelpMenu.htm" />
+  <HelpKINode Title="Program.Installsvc method" Url="html/M-clapscli.Program.Installsvc.htm" />
+  <HelpKINode Title="Program.Main method">
+    <HelpKINode Title="Main Method " Url="html/M-clapssvc.Program.Main.htm" />
+    <HelpKINode Title="Main Method " Url="html/M-clapscli.Program.Main.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Program.Uninstallsvc method" Url="html/M-clapscli.Program.Uninstallsvc.htm" />
+  <HelpKINode Title="ReadHKLMIntValue method" Url="html/M-library.claps.Registryconfiguration.ReadHKLMIntValue.htm" />
+  <HelpKINode Title="ReadHKLMStringValue method" Url="html/M-library.claps.Registryconfiguration.ReadHKLMStringValue.htm" />
+  <HelpKINode Title="Registryconfiguration class">
+    <HelpKINode Title="Registryconfiguration Class" Url="html/T-library.claps.Registryconfiguration.htm" />
+    <HelpKINode Title="Registryconfiguration Members" Url="html/AllMembers.T-library.claps.Registryconfiguration.htm" />
+    <HelpKINode Title="about Registryconfiguration class" Url="html/T-library.claps.Registryconfiguration.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-library.claps.Registryconfiguration.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-library.claps.Registryconfiguration.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Registryconfiguration.IsRegistryAvailble method" Url="html/M-library.claps.Registryconfiguration.IsRegistryAvailble.htm" />
+  <HelpKINode Title="Registryconfiguration.ReadHKLMIntValue method" Url="html/M-library.claps.Registryconfiguration.ReadHKLMIntValue.htm" />
+  <HelpKINode Title="Registryconfiguration.ReadHKLMStringValue method" Url="html/M-library.claps.Registryconfiguration.ReadHKLMStringValue.htm" />
+  <HelpKINode Title="Registryconfiguration.UpdateDateAndTime method" Url="html/M-library.claps.Registryconfiguration.UpdateDateAndTime.htm" />
+  <HelpKINode Title="SetSecret method" Url="html/M-library.claps.Azkeyvault.SetSecret.htm" />
+  <HelpKINode Title="Timer_Elapsed method" Url="html/M-clapssvc.CoreService.Timer_Elapsed.htm" />
+  <HelpKINode Title="Uninstallsvc method" Url="html/M-clapscli.Program.Uninstallsvc.htm" />
+  <HelpKINode Title="UpdateDateAndTime method" Url="html/M-library.claps.Registryconfiguration.UpdateDateAndTime.htm" />
+  <HelpKINode Title="User class">
+    <HelpKINode Title="User Class" Url="html/T-library.claps.User.htm" />
+    <HelpKINode Title="User Members" Url="html/AllMembers.T-library.claps.User.htm" />
+    <HelpKINode Title="about User class" Url="html/T-library.claps.User.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-library.claps.User.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-library.claps.User.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-library.claps.User.htm" />
+  </HelpKINode>
+  <HelpKINode Title="User.AddUsertoGroup method" Url="html/M-library.claps.User.AddUsertoGroup.htm" />
+  <HelpKINode Title="User.CreateUserOrUpdatePassword method" Url="html/M-library.claps.User.CreateUserOrUpdatePassword.htm" />
+  <HelpKINode Title="User.DoesUserExist method" Url="html/M-library.claps.User.DoesUserExist.htm" />
+  <HelpKINode Title="User.log field" Url="html/F-library.claps.User.log.htm" />
+  <HelpKINode Title="User.ProcessUser method" Url="html/M-library.claps.User.ProcessUser.htm" />
+  <HelpKINode Title="UseRegistryForConfiguration property" Url="html/P-library.claps.Models.Configuration.UseRegistryForConfiguration.htm" />
+  <HelpKINode Title="_logFileLocation field" Url="html/F-clapssvc.CoreService._logFileLocation.htm" />
+  <HelpKINode Title="_scheduleTime field" Url="html/F-clapssvc.CoreService._scheduleTime.htm" />
+  <HelpKINode Title="_timer field" Url="html/F-clapssvc.CoreService._timer.htm" />
+</HelpKI>

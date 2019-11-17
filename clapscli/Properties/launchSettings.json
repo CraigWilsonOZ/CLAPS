@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "clapscli": {
+      "commandName": "Project",
+      "commandLineArgs": "-localadmin"
+    }
+  }
+}

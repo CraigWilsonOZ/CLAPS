@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="562fd91a-b5a5-40e5-89f4-714162475c90" Title="clapscli Namespace" Url="html/N-clapscli.htm">
+    <HelpTOCNode Id="ed5705ea-7bf0-42f7-a81f-51e6da85e340" Title="Program Class" Url="html/T-clapscli.Program.htm">
+      <HelpTOCNode Title="Program Members" Url="html/AllMembers.T-clapscli.Program.htm" />
+      <HelpTOCNode Id="e70b1ec9-d227-4fe7-b348-a57ba3ce206c" Title="Program Methods" Url="html/Methods.T-clapscli.Program.htm">
+        <HelpTOCNode Title="HelpMenu Method " Url="html/M-clapscli.Program.HelpMenu.htm" />
+        <HelpTOCNode Title="Installsvc Method " Url="html/M-clapscli.Program.Installsvc.htm" />
+        <HelpTOCNode Title="Main Method " Url="html/M-clapscli.Program.Main.htm" />
+        <HelpTOCNode Title="Uninstallsvc Method " Url="html/M-clapscli.Program.Uninstallsvc.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="0acb3178-657d-4573-8a94-bb15ad91cbd1" Title="clapssvc Namespace" Url="html/N-clapssvc.htm">
+    <HelpTOCNode Id="03d819bb-05a0-41d7-afbf-11822ff37d9f" Title="CoreService Class" Url="html/T-clapssvc.CoreService.htm">
+      <HelpTOCNode Title="CoreService Members" Url="html/AllMembers.T-clapssvc.CoreService.htm" />
+      <HelpTOCNode Id="f132dd71-ea88-442e-8eab-795d16588549" Title="CoreService Fields" Url="html/Fields.T-clapssvc.CoreService.htm">
+        <HelpTOCNode Title="_logFileLocation Field" Url="html/F-clapssvc.CoreService._logFileLocation.htm" />
+        <HelpTOCNode Title="_scheduleTime Field" Url="html/F-clapssvc.CoreService._scheduleTime.htm" />
+        <HelpTOCNode Title="_timer Field" Url="html/F-clapssvc.CoreService._timer.htm" />
+        <HelpTOCNode Title="CreateAdminUser Field" Url="html/F-clapssvc.CoreService.CreateAdminUser.htm" />
+        <HelpTOCNode Title="pathtolog Field" Url="html/F-clapssvc.CoreService.pathtolog.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a39da2a1-62e8-459a-9694-8e1e3b4f66d9" Title="CoreService Methods" Url="html/Methods.T-clapssvc.CoreService.htm">
+        <HelpTOCNode Title="Log Method " Url="html/M-clapssvc.CoreService.Log.htm" />
+        <HelpTOCNode Title="OnPause Method " Url="html/M-clapssvc.CoreService.OnPause.htm" />
+        <HelpTOCNode Title="OnStart Method " Url="html/M-clapssvc.CoreService.OnStart.htm" />
+        <HelpTOCNode Title="OnStop Method " Url="html/M-clapssvc.CoreService.OnStop.htm" />
+        <HelpTOCNode Title="Timer_Elapsed Method " Url="html/M-clapssvc.CoreService.Timer_Elapsed.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a41ffc87-320e-48da-b210-090888aecc42" Title="Program Class" Url="html/T-clapssvc.Program.htm">
+      <HelpTOCNode Title="Program Members" Url="html/AllMembers.T-clapssvc.Program.htm" />
+      <HelpTOCNode Id="f1f3b999-5338-460d-a0c9-9073b493598b" Title="Program Methods" Url="html/Methods.T-clapssvc.Program.htm">
+        <HelpTOCNode Title="Main Method " Url="html/M-clapssvc.Program.Main.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="9f43d125-fbb3-4e10-bcc0-8757517b2edc" Title="library.claps Namespace" Url="html/N-library.claps.htm">
+    <HelpTOCNode Id="ddbc1e79-64e4-492b-88db-37a1fe8bc23b" Title="Azkeyvault Class" Url="html/T-library.claps.Azkeyvault.htm">
+      <HelpTOCNode Title="Azkeyvault Members" Url="html/AllMembers.T-library.claps.Azkeyvault.htm" />
+      <HelpTOCNode Title="Azkeyvault Constructor " Url="html/M-library.claps.Azkeyvault.-ctor.htm" />
+      <HelpTOCNode Id="1f7a4892-dabd-4f52-ac9c-0a25e88828a4" Title="Azkeyvault Fields" Url="html/Fields.T-library.claps.Azkeyvault.htm">
+        <HelpTOCNode Title="log Field" Url="html/F-library.claps.Azkeyvault.log.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="16fc769a-bdb7-47c8-980e-0bdd58d87e1a" Title="Azkeyvault Methods" Url="html/Methods.T-library.claps.Azkeyvault.htm">
+        <HelpTOCNode Title="GetSecret Method " Url="html/M-library.claps.Azkeyvault.GetSecret.htm" />
+        <HelpTOCNode Title="Keyvault Method " Url="html/M-library.claps.Azkeyvault.Keyvault.htm" />
+        <HelpTOCNode Title="SetSecret Method " Url="html/M-library.claps.Azkeyvault.SetSecret.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2f36d0c9-a32d-4646-be00-fc3a96e9dbb3" Title="Logger Class" Url="html/T-library.claps.Logger.htm">
+      <HelpTOCNode Title="Logger Members" Url="html/AllMembers.T-library.claps.Logger.htm" />
+      <HelpTOCNode Id="71273531-93d5-4c90-a2b5-19085ad4a8f8" Title="Logger Methods" Url="html/Methods.T-library.claps.Logger.htm">
+        <HelpTOCNode Title="Logevent Method " Url="html/M-library.claps.Logger.Logevent.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="33779049-4097-4db2-b29f-90906346163f" Title="Password Class" Url="html/T-library.claps.Password.htm">
+      <HelpTOCNode Title="Password Members" Url="html/AllMembers.T-library.claps.Password.htm" />
+      <HelpTOCNode Id="addd47fb-3de8-48ca-b56d-532fd2ebbb17" Title="Password Methods" Url="html/Methods.T-library.claps.Password.htm">
+        <HelpTOCNode Title="GenerateRandomPassword Method " Url="html/M-library.claps.Password.GenerateRandomPassword.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0c1a1a84-8bb0-4f1c-b426-e19447e7140f" Title="Registryconfiguration Class" Url="html/T-library.claps.Registryconfiguration.htm">
+      <HelpTOCNode Title="Registryconfiguration Members" Url="html/AllMembers.T-library.claps.Registryconfiguration.htm" />
+      <HelpTOCNode Id="10fab296-aa31-4e5a-afef-af3740004ce0" Title="Registryconfiguration Methods" Url="html/Methods.T-library.claps.Registryconfiguration.htm">
+        <HelpTOCNode Title="IsRegistryAvailble Method " Url="html/M-library.claps.Registryconfiguration.IsRegistryAvailble.htm" />
+        <HelpTOCNode Title="ReadHKLMIntValue Method " Url="html/M-library.claps.Registryconfiguration.ReadHKLMIntValue.htm" />
+        <HelpTOCNode Title="ReadHKLMStringValue Method " Url="html/M-library.claps.Registryconfiguration.ReadHKLMStringValue.htm" />
+        <HelpTOCNode Title="UpdateDateAndTime Method " Url="html/M-library.claps.Registryconfiguration.UpdateDateAndTime.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f035d9c4-3648-4889-8d59-f3d52dbbb81c" Title="User Class" Url="html/T-library.claps.User.htm">
+      <HelpTOCNode Title="User Members" Url="html/AllMembers.T-library.claps.User.htm" />
+      <HelpTOCNode Id="a7cea078-f9a2-4a7a-8bc6-84a4e8343344" Title="User Fields" Url="html/Fields.T-library.claps.User.htm">
+        <HelpTOCNode Title="log Field" Url="html/F-library.claps.User.log.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3d49fb4e-2d64-4105-a8a3-8df062881ba6" Title="User Methods" Url="html/Methods.T-library.claps.User.htm">
+        <HelpTOCNode Title="AddUsertoGroup Method " Url="html/M-library.claps.User.AddUsertoGroup.htm" />
+        <HelpTOCNode Title="CreateUserOrUpdatePassword Method " Url="html/M-library.claps.User.CreateUserOrUpdatePassword.htm" />
+        <HelpTOCNode Title="DoesUserExist Method " Url="html/M-library.claps.User.DoesUserExist.htm" />
+        <HelpTOCNode Title="ProcessUser Method " Url="html/M-library.claps.User.ProcessUser.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="95dedd6d-e21e-472b-b730-5a5c6d04d2ef" Title="library.claps.Models Namespace" Url="html/N-library.claps.Models.htm">
+    <HelpTOCNode Id="6f6c13ec-9bb7-400a-8c9f-16af4167863e" Title="Configuration Class" Url="html/T-library.claps.Models.Configuration.htm">
+      <HelpTOCNode Title="Configuration Members" Url="html/AllMembers.T-library.claps.Models.Configuration.htm" />
+      <HelpTOCNode Title="Configuration Methods" Url="html/Methods.T-library.claps.Models.Configuration.htm" />
+      <HelpTOCNode Id="b83171ff-b0c5-4582-a911-ef9912d9cc70" Title="Configuration Properties" Url="html/Properties.T-library.claps.Models.Configuration.htm">
+        <HelpTOCNode Title="AzureKeyVaultClientID Property " Url="html/P-library.claps.Models.Configuration.AzureKeyVaultClientID.htm" />
+        <HelpTOCNode Title="AzureKeyVaultClientKey Property " Url="html/P-library.claps.Models.Configuration.AzureKeyVaultClientKey.htm" />
+        <HelpTOCNode Title="AzureKeyVaultURL Property " Url="html/P-library.claps.Models.Configuration.AzureKeyVaultURL.htm" />
+        <HelpTOCNode Title="HoursBeforeUpdate Property " Url="html/P-library.claps.Models.Configuration.HoursBeforeUpdate.htm" />
+        <HelpTOCNode Title="LocalAccountName Property " Url="html/P-library.claps.Models.Configuration.LocalAccountName.htm" />
+        <HelpTOCNode Title="LocalAdministratorGroupName Property " Url="html/P-library.claps.Models.Configuration.LocalAdministratorGroupName.htm" />
+        <HelpTOCNode Title="UseRegistryForConfiguration Property " Url="html/P-library.claps.Models.Configuration.UseRegistryForConfiguration.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
